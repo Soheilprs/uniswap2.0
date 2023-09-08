@@ -1,0 +1,58 @@
+Starting project...
+Installing dependencies, please wait...
+
+added 353 packages in 44s
+Project running
+"0xCcb023170b096da50Ff12353D010AB0F1b81B44c" @start
+[
+  [
+    {
+      "address": "0xE6665D906abAD4D84D2b8AA573fdbAD72AACc412",
+      "desiredAmount": 1000
+    },
+    {
+      "address": "ETH",
+      "desiredAmount": 0.001
+    }
+  ],
+  [
+    {
+      "address": "0xE6665D906abAD4D84D2b8AA573fdbAD72AACc412",
+      "desiredAmount": 100
+    },
+    {
+      "address": "0x69f7f5a0F17c2a28fA422030e127463E13451aC0",
+      "desiredAmount": 1000
+    }
+  ],
+  [
+    {
+      "address": "0x43Fef2B35AD85e6C87D23720CC22756B92b62454",
+      "desiredAmount": 1000
+    },
+    {
+      "address": "ETH",
+      "desiredAmount": 0.001
+    }
+  ],
+  [
+    {
+      "address": "0x69f7f5a0F17c2a28fA422030e127463E13451aC0",
+      "desiredAmount": 1000
+    },
+    {
+      "address": "ETH",
+      "desiredAmount": 0.001
+    }
+  ],
+  [
+    {
+      "address": "0x69f7f5a0F17c2a28fA422030e127463E13451aC0",
+      "desiredAmount": 1000
+    },
+    {
+      "address": "0xE6665D906abAD4D84D2b8AA573fdbAD72AACc412",
+      "desiredAmount": 100
+    }
+  ]
+] @start
